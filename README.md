@@ -1,5 +1,5 @@
 # ArtUsingCSS
-Draw a cat using CSS 
+Draw a cat using CSS! 
 
 
 ## Output
